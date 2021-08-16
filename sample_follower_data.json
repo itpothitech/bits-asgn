@@ -1,0 +1,22 @@
+{
+    "userId": 1001,
+    "userName": "Sandip",
+    "userEmail": "sandip@mysite.com",
+    "followers": [
+        {
+            "userId": 1010,
+            "userName": "Meena",
+            "userEmail": "meena@mysite.com"
+        },
+        {
+            "userId": 1020,
+            "userName": "Beauty",
+            "userEmail": "lovely@mysite.com"
+        },
+        {
+            "userId": 1030,
+            "userName": "Xmaster",
+            "userEmail": "x9090@mysite.com"
+        }
+    ]
+}

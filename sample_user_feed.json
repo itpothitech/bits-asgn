@@ -1,0 +1,45 @@
+{
+    "userId": 1010,
+    "userName": "Meena",
+    "userEmail": "meena@mysite.com",
+    "latestPosts": [
+        {
+            "userId": 1001,
+            "userName": "Sandip",
+            "userEmail": "sandip@mysite.com",
+            "posts": [
+                {
+                    "text": "I love chicken",
+                    "image": "S3 link",
+                    "comments": [
+                        {
+                            "userId": 1003,
+                            "userName": "Abhay",
+                            "text": "looks good",
+                            "like": [
+                                {
+                                    "userId": 1009,
+                                    "userName": "UserC",
+                                    "image": "-D"
+                                }
+                            ]
+                        },
+                        {
+                            "userId": 1004,
+                            "userName": "Akshay",
+                            "text": "Enjoying huh !!",
+                            "like": []
+                        }
+                    ],
+                    "like": [
+                        {
+                            "userId": 1006,
+                            "userName": "Abhishek",
+                            "image": ":-P"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

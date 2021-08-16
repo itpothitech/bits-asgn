@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "user-post-service"
+		},
+		{
+			"name": "user-follow-service",
+			"path": "user-follow-service"
+		},
+		{
+			"path": "user-feed-service"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
